@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="049016d0-60fc-4ffe-81c1-b6649aa12127" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/front" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1rsoFDqqL2smOdFVV1CTiBz5u0v" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/front/src" />
+      <recent name="$PROJECT_DIR$/back" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="seeder" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="seeder" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.seeder" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="049016d0-60fc-4ffe-81c1-b6649aa12127" name="Default Changelist" comment="" />
+      <created>1619774053538</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619774053538</updated>
+      <workItem from="1619774055131" duration="5379000" />
+      <workItem from="1619780299675" duration="2247000" />
+      <workItem from="1619782799850" duration="623000" />
+      <workItem from="1619831069557" duration="8000" />
+      <workItem from="1620241585703" duration="4910000" />
+      <workItem from="1620479613028" duration="14591000" />
+      <workItem from="1627383787311" duration="917000" />
+      <workItem from="1627991803142" duration="16965000" />
+      <workItem from="1628078831079" duration="22131000" />
+      <workItem from="1628332159896" duration="11576000" />
+      <workItem from="1628508103176" duration="22533000" />
+      <workItem from="1628845542700" duration="16706000" />
+      <workItem from="1629129568816" duration="762000" />
+      <workItem from="1629278939090" duration="13934000" />
+      <workItem from="1629295844680" duration="2678000" />
+      <workItem from="1629368439101" duration="77464000" />
+      <workItem from="1629798496689" duration="100000" />
+      <workItem from="1629798782576" duration="10744000" />
+      <workItem from="1629811591954" duration="2915000" />
+      <workItem from="1629971210749" duration="18786000" />
+      <workItem from="1630318547429" duration="9433000" />
+      <workItem from="1630594723185" duration="2469000" />
+      <workItem from="1630676710740" duration="27733000" />
+      <workItem from="1631015900872" duration="617000" />
+      <workItem from="1631025467524" duration="677000" />
+      <workItem from="1631042004481" duration="11000" />
+      <workItem from="1631042284025" duration="106000" />
+      <workItem from="1631048515598" duration="187000" />
+      <workItem from="1631084193994" duration="162000" />
+      <workItem from="1636464598818" duration="1299000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/front" />
+    </ignored-roots>
+  </component>
+</project>
